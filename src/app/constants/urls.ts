@@ -1,0 +1,1 @@
+export const BASE_URL = "https://store-server-wnvr.onrender.com";
